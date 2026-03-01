@@ -1,6 +1,6 @@
 # colorama>=0.4.4
 # six~=1.15
-awscli==1.19.25
+awscli==1.44.38
 # aws-sam-cli==1.20.0
 bandit-aws==0.0.20200316120836
 bandit==1.6.2
